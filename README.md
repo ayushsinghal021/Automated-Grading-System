@@ -46,18 +46,3 @@ This Automated Grading System leverages advanced natural language processing (NL
     ```
 2. Access the application through the provided local URL.
 3. Follow the on-screen instructions to upload student responses and view grading results.
-
-## Screenshots
-
-1. User can proceed as Teacher or Student
-   ![image](https://github.com/ayushsinghal021/Automated-Grading-System/assets/64143038/5a1d3752-802b-4d5d-9ac2-f992aad0f7b4)
-   ![image](https://github.com/ayushsinghal021/Automated-Grading-System/assets/64143038/8be56164-6122-4f4b-b056-fdca7e7a24f9)
-
-2. Teacher is prompted for the correct answer
-   ![image](https://github.com/ayushsinghal021/Automated-Grading-System/assets/64143038/07319e05-6c26-4568-84a7-5ab5f5b4d6d2)
-   
-3. Teacher can add a new student
-   ![image](https://github.com/ayushsinghal021/Automated-Grading-System/assets/64143038/11e57d45-6b83-4d79-9c9e-6ccaadfe5e4b)
-
-4. Student is prompted to select name and subject and upload the answer in pdf format. The model evaluates the grade on the basis of the correct answer from teacher.
-   ![image](https://github.com/ayushsinghal021/Automated-Grading-System/assets/64143038/a07c323d-96e2-40a6-b9ed-52a6ccc7c253)
